@@ -3997,3 +3997,33 @@ input, select, textarea {
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+	/* Benny's Styling */
+
+	.base-color{
+		color: #76ddff!important;
+	}
+
+	.base-color2{
+		color: #ef5e4a!important;
+	}
+
+	.base-color3{
+		color: #015668!important;
+	}
+
+	.proholder{
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.profile {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		margin-bottom: 20px;
+		width: 100%;
+		max-width: 400px;
+		height: auto;
+		border-radius: 200px;
+	}
