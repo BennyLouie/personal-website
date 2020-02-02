@@ -3814,10 +3814,10 @@ input, select, textarea {
 
 	#main > header {
 		padding: 12em 0 10em 0 ;
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
-		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://coincodex.com/en/resources/images//admin/news/blockchain-versus-ha/laptopcode.jpg:resizeboxcropjpg?1580x888');
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://coincodex.com/en/resources/images//admin/news/blockchain-versus-ha/laptopcode.jpg:resizeboxcropjpg?1580x888');
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://coincodex.com/en/resources/images//admin/news/blockchain-versus-ha/laptopcode.jpg:resizeboxcropjpg?1580x888');
+		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://coincodex.com/en/resources/images//admin/news/blockchain-versus-ha/laptopcode.jpg:resizeboxcropjpg?1580x888');
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
@@ -3964,10 +3964,10 @@ input, select, textarea {
 /* Landing */
 
 	body.landing #page-wrapper {
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
-		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://www.acendre.com/wp-content/uploads/2019/06/integrated-hr-software-acendre-blog.png");
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://www.acendre.com/wp-content/uploads/2019/06/integrated-hr-software-acendre-blog.png");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://www.acendre.com/wp-content/uploads/2019/06/integrated-hr-software-acendre-blog.png");
+		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://www.acendre.com/wp-content/uploads/2019/06/integrated-hr-software-acendre-blog.png");
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
@@ -3985,10 +3985,10 @@ input, select, textarea {
 
 	body.is-mobile.landing #banner,
 	body.is-mobile.landing .wrapper.style4 {
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
-		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://www.acendre.com/wp-content/uploads/2019/06/integrated-hr-software-acendre-blog.png");
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://www.acendre.com/wp-content/uploads/2019/06/integrated-hr-software-acendre-blog.png");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://www.acendre.com/wp-content/uploads/2019/06/integrated-hr-software-acendre-blog.png");
+		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://www.acendre.com/wp-content/uploads/2019/06/integrated-hr-software-acendre-blog.png");
 		background-position: center center;
 		background-repeat: no-repeat;
 		background-size: cover;
@@ -4026,4 +4026,44 @@ input, select, textarea {
 		max-width: 400px;
 		height: auto;
 		border-radius: 200px;
+	}
+
+	a.links {
+		text-decoration: underline;
+		position: relative;
+		color: #76ddff;
+		
+		/* &:after {
+			content: '';
+			height: 3px;
+			position: absolute;
+			bottom: 0;
+			left: 0;
+			width: 0%;
+			background: #069;
+			transition: 0.2s;
+		} */
+	
+		/* a:hover.links {
+			width: 100%;
+		} */
+		
+		
+		/* &.block {
+			display: block;
+			padding: 0.5em;
+			
+			&:hover {
+				background: #eee;
+			}
+		} */
+	}
+
+	.footer-text{
+		color:#a0a0a0!important;
+	}
+
+	.project {
+		margin-top: 2em;
+		margin-bottom: 0em;
 	}
