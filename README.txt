@@ -43,3 +43,8 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+-------------------------------------------------------------------------------------------
+
+Additional Credits:
+	Alex Mendes (https://github.com/mendes-develop) for additional design templates
